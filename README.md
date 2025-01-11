@@ -1,0 +1,2 @@
+# Tasmota
+Tasmota specific applications
